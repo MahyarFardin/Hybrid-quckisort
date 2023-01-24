@@ -5,6 +5,8 @@ I implemented quicksort and new quicksort methods as expected and every time I g
 
     *BEST K*: 599
     *Ratio of quicksort to new algorithm*: 0.06225760359256991
+    
+![alt text](https://github.com/MahyarFardin/Hybrid-quckisort/blob/main/result1.png)
 
 this means whit k of 599 new algorithm works almost ten times faster than typical quicksort
 
@@ -12,6 +14,8 @@ this means whit k of 599 new algorithm works almost ten times faster than typica
 
     *BEST K*: 928
     *Ratio of quicksort to new algorithm*: 0.01945447252306458
+
+![alt text](https://github.com/MahyarFardin/Hybrid-quckisort/blob/main/result2.png)
 
 this means the algorithm worked 50 times faster when k is set to 928
 
